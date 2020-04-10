@@ -1,0 +1,11 @@
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\obj\MCD\Debug\netcoreapp2.1\LinqSkeleton.csprojAssemblyReference.cache
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\obj\MCD\Debug\netcoreapp2.1\LinqSkeleton.csproj.CoreCompileInputs.cache
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\obj\MCD\Debug\netcoreapp2.1\LinqSkeleton.AssemblyInfoInputs.cache
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\obj\MCD\Debug\netcoreapp2.1\LinqSkeleton.AssemblyInfo.cs
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\bin\MCD\Debug\netcoreapp2.1\LinqSkeleton.deps.json
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\bin\MCD\Debug\netcoreapp2.1\LinqSkeleton.runtimeconfig.json
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\bin\MCD\Debug\netcoreapp2.1\LinqSkeleton.runtimeconfig.dev.json
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\bin\MCD\Debug\netcoreapp2.1\LinqSkeleton.dll
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\bin\MCD\Debug\netcoreapp2.1\LinqSkeleton.pdb
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\obj\MCD\Debug\netcoreapp2.1\LinqSkeleton.dll
+C:\Users\eleah\Documents\coding_dojo\C#\ORM\Music_LINQ\MusicLinqSkeleton\obj\MCD\Debug\netcoreapp2.1\LinqSkeleton.pdb
